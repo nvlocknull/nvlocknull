@@ -1,16 +1,33 @@
-## Hi there 👋
+class Rxven {
+    constructor() {
+        this.alias  = [ 'nvlock', 'xseven' ]
+    }
 
-<!--
-**nvlocknull/nvlocknull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    contact() {
+        const discord  = 'nvlock'
+        const telegram = 't.me/nvlock'
+        const email    = 'nvlock@stormmedia.gg'
+        
+        return discord, telegram, email
+    }
 
-Here are some ideas to get you started:
+    life() {
+        const age        = 17
+        const occupation = 'Student'
+        const hobbies    = [ 'Programming', 'Cracking' ]
+        
+        return age, occupation, hobbies
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    programming() {
+        const languages         = [ 'JavaScript, TypeScript (Node.js Framework)', 'Python', 'C#' ];
+        const learning          = [ 'C++' ];
+        const ide               = 'Visual Studio Code';
+
+        const preferredLanguage = languages[0];
+
+        return languages, learning, ide, preferredLanguage
+    }
+}
+
+module.exports = Nvlock
