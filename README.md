@@ -1,4 +1,4 @@
-class Rxven {
+```class Nvlock {
     constructor() {
         this.alias  = [ 'nvlock', 'xseven' ]
     }
@@ -30,4 +30,4 @@ class Rxven {
     }
 }
 
-module.exports = Nvlock
+module.exports = Nvlock```
