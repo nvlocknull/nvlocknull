@@ -1,4 +1,5 @@
-```class Nvlock {
+```python
+class Nvlock {
     constructor() {
         this.alias  = [ 'nvlock', 'xseven' ]
     }
@@ -30,4 +31,4 @@
     }
 }
 
-module.exports = Nvlock```
+module.exports = Nvlock
