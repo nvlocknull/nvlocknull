@@ -1,4 +1,4 @@
-```python
+```node
 class Nvlock {
     constructor() {
         this.alias  = [ 'nvlock', 'xseven' ]
