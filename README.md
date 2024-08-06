@@ -21,7 +21,7 @@ class Nvlock {
     }
 
     programming() {
-        const languages         = [ 'JavaScript, TypeScript (Node.js Framework)', 'Python', 'C#' ];
+        const languages         = [ 'JavaScript, TypeScript (Node.js Framework)', 'Python', 'Lua', 'C#' ];
         const learning          = [ 'C++' ];
         const ide               = 'Visual Studio Code';
 
