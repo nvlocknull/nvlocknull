@@ -13,7 +13,7 @@ class Nvlock {
     }
 
     life() {
-        const age        = 17
+        const age        = 18
         const occupation = 'Student'
         const hobbies    = [ 'Programming', 'Cracking' ]
         
