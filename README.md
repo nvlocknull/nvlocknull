@@ -1,13 +1,13 @@
 ```node
-class Nvlock {
+class Haver {
     constructor() {
-        this.alias  = [ 'nvlock', 'xseven' ]
+        this.alias  = [ 'haver', 'nvlock', 'xseven' ]
     }
 
     contact() {
-        const discord  = 'nvlock'
+        const discord  = 'haverltc'
         const telegram = 't.me/nvlock'
-        const email    = 'nvlock@stormmedia.gg'
+        const email    = 'chujcietopsino@stormmedia.gg'
         
         return discord, telegram, email
     }
@@ -31,4 +31,4 @@ class Nvlock {
     }
 }
 
-module.exports = Nvlock
+module.exports = Haver
